@@ -14,7 +14,7 @@ for focused work and short breaks.
 ## GitHub Repository
 
 **GitHub:**\
-https://github.com/satyam-7777/Session-Clock-FCC
+<https://github.com/satyam-7777/Session-Clock-FCC>
 
 ## Features
 
